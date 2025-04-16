@@ -1,9 +1,11 @@
+import { BrowserRouter } from "react-router"
+import Routers from "./routes/Routers"
 
 function App() {
   return (
-    <h1 class="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <BrowserRouter>
+      <Routers />
+    </BrowserRouter>
   )
 }
 
