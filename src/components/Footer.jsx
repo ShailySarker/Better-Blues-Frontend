@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="flex flex-col md:items-start items-center xl:w-[22%] lg:w-[25%]">
                     <h2 className="font-bold text-white xl:text-3xl md:text-2xl text-xl flex items-center gap-1"><FaDonate />Better Blues</h2>
                     <div className="xl:mt-6 md:mt-5 mt-4">
-                        <p className="xl:text-base text-sm/normal font-medium">A dynamic calendar app built with the MERN stack to create, drag, and manage events with categorized tasks and real-time updates.</p>
+                        <p className="xl:text-base text-sm/normal font-medium">A simple React-based donation platform integrated with Razorpay for secure and seamless payments.</p>
                     </div>
                 </div>
                 <div>
