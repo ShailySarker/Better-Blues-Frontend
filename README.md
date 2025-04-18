@@ -29,7 +29,7 @@ JavaScript, Tailwind CSS, ReactJS, React Router, Axios, Node.js, Express.js, Mon
 $ git clone https://github.com/ShailySarker/Better-Blues-Frontend  
 
 ## Go into the repository
-$ cd User-Window-Frontend
+$ cd Better-Blues-Frontend
 
 ## Install dependencies
 $ npm install
